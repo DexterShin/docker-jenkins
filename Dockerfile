@@ -1,4 +1,4 @@
-FROM jenkins:alpine
+FROM jenkins:2.19.1-alpine
 MAINTAINER zsx <thinkernel@gmail.com>
 
 # Install docker binary
